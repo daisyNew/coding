@@ -21,7 +21,7 @@ Mac OS本身自带Ruby，但还是更新一下保险。输入如下命令可以�
 
 ### 更新ruby
 
-* gem sources –remove https://rubygems.org/
+* gem sources –-remove https://rubygems.org/
 * gem sources -a https://ruby.taobao.org/
 * gem sources -l (用来检查使用替换镜像位置成功)
 
